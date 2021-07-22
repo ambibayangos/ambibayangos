@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Arturo
+- 👀 I’m interested in Power electronics and analogue circuit development
+- 🌱 I’m currently learning more on power electronics and control theory
